@@ -1,2 +1,2 @@
-# BookOfLi
-My GF's book plan
+# BookOfLiu
+Liu's book plan
